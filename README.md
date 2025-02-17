@@ -3,10 +3,12 @@
 ## Exploratory Data Analysis (EDA) and Machine Learning Model
 
 ## EDA:
+Exploratory Data Analysis (EDA) is a crucial initial step in data science projects. It involves examining and visualizing data to identify key characteristics, uncover patterns, and explore relationships between different variables.
+
+EDA also helps detect anomalies or outliers and is typically performed before conducting in-depth statistical analysis or developing predictive models.
 
 ## Machine Learning Model:
-
-
+The machine learning model predicts customer segments (low, medium, or high spending) based on purchasing behavior.  Using features like purchase count, average basket size, order value, and unique products, it classifies customers into spending tiers. This segmentation allows for targeted marketing and personalized recommendations.
 
 ## Packages required to run the website
 
